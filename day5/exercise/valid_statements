@@ -1,0 +1,4 @@
+valid stmt: a,b,e,h,g 
+
+invalid stmt: c,d,f (syntax error)
+
